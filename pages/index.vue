@@ -10,7 +10,7 @@ definePageMeta({
   },*/
   //pageType: "Checkout",
   //middleware: 'other',
-  layout: "default",
+  //layout: "default",
 });
 </script>
 
